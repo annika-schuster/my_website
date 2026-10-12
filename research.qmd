@@ -1,0 +1,46 @@
+---
+title: "Research"
+---
+
+```{=html}
+<style>
+main li > p:has(+ details) { display: inline; }
+main li > details { display: inline; margin-left: 0.3em; }
+main li > details > summary { display: inline; cursor: pointer; color: #2b5c8a; font-size: 0.95em; }
+main li > details > summary p { display: inline; margin: 0; }
+main li > details > summary::before { content: "[ "; }
+main li > details > summary::after { content: " ]"; }
+main li > details > p { margin: 0.5em 0 0.2em 0; padding: 0.6em 0.9em; background-color: #eef3f9; border-left: 3px solid #bccde3; font-size: 0.95em; }
+main li { margin-bottom: 0.9em; }
+</style>
+```
+
+## Publications
+
+- **Schuster, A.**, Goedeking, J., Erhardt, J., Huber, R. A., & Wuttke, A. (2026). Breaching the firewall: A natural experiment on how unravelling the cordon sanitaire affects voters' attitudes. *Electoral Studies*, *104*, 103133. <https://doi.org/10.1016/j.electstud.2026.103133>
+
+- Populist Opposition to Climate Policy: The Role of Policy Design (with [Robert A. Huber](https://robertahuber.com/)). *Journal of European Public Policy* (accepted)
+
+   <details>
+   <summary>Abstract</summary>
+
+   Populist actors increasingly pressure policymakers to navigate a trade-off between effective climate policy and its public feasibility. However, one may ask whether a populist worldview is inherently more opposed to some types of climate policies than to others, and if so, why? An emerging literature has found populist citizens oppose climate policies writ large. Building on this literature, we argue that populist citizens do not oppose all climate policies to the same extent. Differentiating climate change policies based on their policy design, we argue that populist citizens substantially reject climate policies more if they are “push” measures, leverage market-based instruments or target “the people.” We test these arguments by utilizing high-quality Austrian panel data. We find that populist citizens are indeed less supportive of climate policy, however, this relationship is moderated by policy design and independent from thick-ideological leanings. Populist backlash is particularly pronounced for policies that target individuals and leverage “push” measures. Vice versa, policies targeting companies or employing incentivizing measures face significantly less backlash. These findings suggest that policy design indeed can mitigate the populist backlash against climate policy and policymakers can utilize this evidence to create more robust climate policy packages.
+
+   </details>
+
+## Working Papers and Ongoing Projects
+
+- Political Backlash against the Green Transition: Evidence from the UK Coal Phase-Out
+
+- Not All Mines Vote Alike: The Green Transition and Partisan Realignment Across U.S. Extraction Communities (with [Yaron Weissberg](https://www.polver.uni-konstanz.de/ag-international-politics/personen/dr-yaron-weissberg/))
+
+- The Electoral Politics of Data Centers in the U.S (with [Zach Dickson](https://z-dickson.github.io/))
+
+- Distrust in Disguise? Assessing the Boundaries between Political Distrust, Populist Attitudes, and Conspiracy Mentality (with [Diana Lucia Hofmann](https://www.plus.ac.at/politikwissenschaft/fachbereich/mitarbeiterinnen/hofmann-diana/))
+
+   <details>
+   <summary>Abstract</summary>
+
+   Populist attitudes and conspiracy mentality are commonly characterised as more extreme forms of political distrust, which studies frequently treat as their shared underlying mechanism. Yet it remains unclear whether political distrust (1) constitutes their shared core, (2) is a third expression of a more generalised distrust, or (3) is empirically distinct. Using original survey data from Austria, Switzerland, France, and Italy, we examine these constructs’ latent structure and political consequences. Our results show that all three form distinct factors and political distrust neither accounts for the overlap between populist attitudes and conspiracy mentality nor contributes much to a general factor shared between them. Instead, political distrust remains largely separate. Additionally, all three attitudes share a rejection of representative democracy, while conspiracy mentality relates most consistently with autocratic preference, whereas only political distrust relates to a rejection of an unconstrained leader.
+
+   </details>

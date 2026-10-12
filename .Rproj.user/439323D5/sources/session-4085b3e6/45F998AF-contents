@@ -1,0 +1,26 @@
+---
+title: "Annika Schuster"
+subtitle: "PhD Candidate in Political Science, University of Salzburg"
+toc: false
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:annika.schuster@plus.ac.at
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/annikaschuster.bsky.social
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/annika-schuster-578613333/?isSelfProfile=true
+---
+
+I am a PhD candidate at the Department of Political Science at the University of Salzburg, supervised by [Robert A. Huber](https://robertahuber.com/), [Federica Genovese](https://www.federica-genovese.com/), and [Diane Bolet](https://www.dianebolet.com/). In 2026, I was a Visiting Scholar at Nuffield College, University of Oxford, and at the Department of Social Policy at the London School of Economics and Political Science. 
+
+My research examines the drivers of support for populist radical right parties, with a particular focus on party strategies, structural economic change, and distributive conflicts. 
+
+Specifically, I study how the green transition and the expansion of AI infrastructure can create place-based grievances and reshape electoral coalitions, how radical right parties mobilize these grievances, and whether policy design can mitigate the resulting backlash. Moreover, I analyze whether mainstream party strategies are effective. Methodologically, I employ causal inference designs and computational text analysis.
+
+My work has been published or accepted in *Electoral Studies* and the *Journal of European Public Policy*.

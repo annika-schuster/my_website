@@ -1,0 +1,10 @@
+---
+title: "CV"
+toc: false
+---
+
+[Download CV (PDF)](CV_Schuster.pdf){.btn .btn-outline-primary target="_blank"}
+
+```{=html}
+<iframe src="CV_Schuster.pdf" width="100%" height="900px" style="border: 1px solid #bccde3; margin-top: 1em;"></iframe>
+```
